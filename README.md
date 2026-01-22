@@ -13,13 +13,14 @@ Computer Science Engineering Student | Networking & Software Enthusiast
 
 
 ---
-##💼 Experience
+## 💼 Experience
 
-🤖 Machine Learning Intern (Dec 2024)
+🤖 **Machine Learning Intern** *(Dec 2024)*  
 Gained hands-on experience in Python programming for building and training machine learning models. Applied machine learning algorithms and evaluation techniques to improve model performance.
 
-🧠 AIML Intern (Machine Learning Focus) (May 2025)
+🧠 **AIML Intern (Machine Learning Focus)** *(May 2025)*  
 Completed a specialized internship in Machine Learning with practical exposure to building and training AI models. Applied machine learning techniques on real-world datasets to develop performance-driven solutions.
+
 
 ### 💻 I Code In  
 <p align="left">
