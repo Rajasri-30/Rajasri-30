@@ -93,6 +93,8 @@ Completed a specialized internship in Machine Learning with practical exposure t
 - Designed and developed an AI-powered chatbot to recommend travel destinations based on user preferences, popularity, and budget.  
 - Implemented recommendation logic to personalize travel suggestions.  
 - Integrated a cost estimation system to calculate projected expenses for travel, accommodation, and activities.
+  
+---
 
 ## 🏆 Achievements and Certifications
 
@@ -103,7 +105,9 @@ Completed a specialized internship in Machine Learning with practical exposure t
 ### 🎓 Certifications
 - **Introduction to Internet of Things (IoT)** – NPTEL  
 - **Python for Data Science** – NPTEL  
-- **Cloud Computing** – NPTEL  
+- **Cloud Computing** – NPTEL
+
+---  
  
 
 ## 📬 Let's Connect!
