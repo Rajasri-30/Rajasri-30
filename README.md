@@ -109,6 +109,14 @@ Completed a specialized internship in Machine Learning with practical exposure t
 - **Cloud Computing** – NPTEL  
  
 
-![Raja Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&hide=issues,contribs)
+## 📬 Let's Connect!
 
-[![Raja Sri's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]
+Feel free to reach out if you're interested in collaborating, mentoring, or just geeking out on AI:
+
+- 📧 **Email**: rajasrisk2004@gmail.com 
+- 💼 **LinkedIn**: [@rajasrisubburayan](https://[(https://www.linkedin.com/in/rajasri-subburayan-a79173248/)] 
+- 🌐 **Portfolio**: [yogeshwaransportfolio.netlify.app](https://yogeshwaransportfolio.netlify.app)  
+
+---
+
+⭐️ *Thank you for visiting my profile! If you like my work, feel free to follow or connect.*  
