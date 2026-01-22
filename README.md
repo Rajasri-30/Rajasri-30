@@ -1,7 +1,6 @@
 ## Hi there 👋 It's me Raja Sri  
 
 Computer Science Engineering Student | Networking & Software Enthusiast  
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🎓 B.E. Computer Science Engineering (2022–2026)  
 - 🌐 Interested in **Networking, Backend Development, and Scalable Systems**  
@@ -11,7 +10,8 @@ Computer Science Engineering Student | Networking & Software Enthusiast
 
 ### 🌍 Social Presence  
 <br />  
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/rajasri-subburayan-a79173248
+)  
 <br/>  
 [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/)  
 
@@ -32,7 +32,6 @@ Computer Science Engineering Student | Networking & Software Enthusiast
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/linux.png"/>  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png"/>  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>  
 
 ---
 
