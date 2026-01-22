@@ -114,7 +114,7 @@ Completed a specialized internship in Machine Learning with practical exposure t
 Feel free to reach out if you're interested in collaborating, mentoring, or just geeking out on AI:
 
 - 📧 **Email**: rajasrisk2004@gmail.com 
-- 💼 **LinkedIn**: [@rajasrisubburayan](https://[(https://www.linkedin.com/in/rajasri-subburayan-a79173248/)] 
+- 💼 **LinkedIn**: [@rajasrisubburayan](https://www.linkedin.com/in/rajasri-subburayan-a79173248/) 
 - 🌐 **Portfolio**: [yogeshwaransportfolio.netlify.app](https://yogeshwaransportfolio.netlify.app)  
 
 ---
