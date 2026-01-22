@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Raja Sri  
+## 👋 Hey! Raja Sri here Building, learning, and exploring tech 
 
 Computer Science Engineering Student | Networking & Software Enthusiast  
 
