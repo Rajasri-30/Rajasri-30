@@ -95,7 +95,19 @@ Completed a specialized internship in Machine Learning with practical exposure t
 **Tech Stack:** Python | Scikit-learn | Pandas | NumPy  
 - Designed and developed an AI-powered chatbot to recommend travel destinations based on user preferences, popularity, and budget.  
 - Implemented recommendation logic to personalize travel suggestions.  
-- Integrated a cost estimation system to calculate projected expenses for travel, accommodation, and activities.  
+- Integrated a cost estimation system to calculate projected expenses for travel, accommodation, and activities.
+
+## 🏆 Achievements and Certifications
+
+### 🎯 Achievements
+- **NSS Volunteer & Event Coordinator** – Assisted in planning and managing non-technical events.  
+- Actively participated in **NSS outreach programs**, supporting community service and event logistics.
+
+### 🎓 Certifications
+- **Introduction to Internet of Things (IoT)** – NPTEL  
+- **Python for Data Science** – NPTEL  
+- **Cloud Computing** – NPTEL  
+ 
 
 ![Raja Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&hide=issues,contribs)
 
