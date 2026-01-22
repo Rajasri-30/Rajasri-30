@@ -83,19 +83,19 @@ Completed a specialized internship in Machine Learning with practical exposure t
 
 ---
 
-### 🧰 IDEs & Tools  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman.png"/>  
+## 📌 Projects
 
----
+### 🌳 Automated Tree Counting  
+**Tech Stack:** Python | YOLOv8 | FastAPI  
+- Designed a scalable machine learning system to count trees using satellite and drone imagery.  
+- Applied YOLOv8 object detection to accurately identify tree locations.  
+- Developed a FastAPI backend to enable real-time updates and results.  
 
-### 💻 Workspace Spec  
-<img height="30" src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>  
-<img height="30" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
-
----
+### 🧳 Tourism Planning Bot  
+**Tech Stack:** Python | Scikit-learn | Pandas | NumPy  
+- Designed and developed an AI-powered chatbot to recommend travel destinations based on user preferences, popularity, and budget.  
+- Implemented recommendation logic to personalize travel suggestions.  
+- Integrated a cost estimation system to calculate projected expenses for travel, accommodation, and activities.  
 
 ![Raja Sri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&hide=issues,contribs)
 
