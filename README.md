@@ -8,9 +8,6 @@ Computer Science Engineering Student | Networking & Software Enthusiast
 - 🚀 Built real-world projects including **network monitoring solutions** and **AI-assisted systems**  
 - 📌 Open to **internship and entry-level opportunities**  
 
-### 🌍 Social Presence  
-<br/> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([(https://www.linkedin.com/in/rajasri-subburayan-a79173248/)]) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
-
 
 ---
 ## 💼 Experience
@@ -115,7 +112,7 @@ Feel free to reach out if you're interested in collaborating, mentoring, or just
 
 - 📧 **Email**: rajasrisk2004@gmail.com 
 - 💼 **LinkedIn**: [@rajasrisubburayan](https://www.linkedin.com/in/rajasri-subburayan-a79173248/) 
-- 🌐 **Portfolio**: [yogeshwaransportfolio.netlify.app](https://yogeshwaransportfolio.netlify.app)  
+- 🌐 **Portfolio**: [rajasriportfolio.netlify.app](https://rajasri-info.netlify.app/)  
 
 ---
 
