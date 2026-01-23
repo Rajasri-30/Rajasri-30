@@ -116,7 +116,7 @@ Feel free to reach out if you're interested in collaborating, mentoring, or just
 
 - 📧 **Email**: rajasrisk2004@gmail.com 
 - 💼 **LinkedIn**: [@rajasrisubburayan](https://www.linkedin.com/in/rajasri-subburayan-a79173248/) 
-- 🌐 **Portfolio**: [rajasriportfolio.netlify.app](https://rajasri-info.netlify.app/)  
+- 🌐 **Portfolio**: [rajasriportfolio.netlify.app][([(https://rajasriportfolio.lovable.app)])  
 
 ---
 
