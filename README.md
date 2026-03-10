@@ -108,6 +108,11 @@ Completed a specialized internship in Machine Learning with practical exposure t
 - **Cloud Computing** – NPTEL
 
 ---  
+## 📄 Resume
+
+📥 **Download / View My Resume**
+
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yhReXi4MGzoIUs-VEQshQb_Tec3_bZkE/view?usp=sharing)
  
 
 ## 📬 Let's Connect!
